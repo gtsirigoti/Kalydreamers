@@ -60,3 +60,17 @@ Analog Capacitive Soil Moisture Sensor- Corrosion Resistant (SEN0193) 11
 καλωδιάκια 9
 
 αντιστάσεις 4
+ Η ανάπτυξη του project μας εδώ:
+ https://openedtech.ellak.gr/robotics2025/kalydreamers-2o-gel-kalimnou-anadiamorfosi-platias-kalimnou/
+ και 
+ https://kalydreamers.blogspot.com/
+ και οι φωτογραφίες από τα διάφορα στάδια:
+ https://photos.app.goo.gl/dQcDukLL2g8vJq4Y8
+  Τα σχέδια στα tinkercad
+  https://www.tinkercad.com/things/hWKFGhmJ1rn-ldr-and-lcd
+  https://www.tinkercad.com/things/3yBacrewkUy-pir-servo-lcd
+  https://www.tinkercad.com/things/ayHnUlYzcjk-servo-led
+  https://www.tinkercad.com/things/1PTHSW3fTs4-soil-moisture-callibration
+  https://www.tinkercad.com/things/b1G60NKtxaZ-ldr
+  https://www.tinkercad.com/things/kaKke0c2HpX-reverse-time-counting
+  https://www.tinkercad.com/things/3TTgp50N00V-7-segment-1-digit
